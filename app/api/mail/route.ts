@@ -1,7 +1,7 @@
 import { type NextRequest, NextResponse } from "next/server"
 
 // 默认API提供商（向后兼容）
-const DEFAULT_API_BASE_URL = "https://api.duckmail.sbs"
+const DEFAULT_API_BASE_URL = "http://mail1.dfyx.xyz"
 
 // 从请求头获取API提供商的基础URL
 function getApiBaseUrl(request: NextRequest): string {
