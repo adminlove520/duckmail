@@ -184,7 +184,7 @@ function MainContent() {
                     className="w-full h-full object-contain"
                   />
                 </div>
-                <span className="font-semibold text-lg text-gray-800 dark:text-white">duckmail.sbs</span>
+                <span className="font-semibold text-lg text-gray-800 dark:text-white">duckmail</span>
               </div>
               <div className="w-8" /> {/* 占位符保持居中 */}
             </div>
@@ -237,7 +237,7 @@ function MainContent() {
                         className="w-full h-full object-contain"
                       />
                     </div>
-                    <span className="font-semibold text-lg text-gray-800 dark:text-white">duckmail.sbs</span>
+                    <span className="font-semibold text-lg text-gray-800 dark:text-white">duckmail</span>
                   </div>
                   <Button
                     isIconOnly
