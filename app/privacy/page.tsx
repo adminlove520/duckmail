@@ -19,7 +19,7 @@ export default function PrivacyPage() {
     zh: {
       title: "隐私政策",
       subtitle: "DuckMail 隐私政策",
-      description: "本文档解释了 duckmail.sbs 网站上个人信息的收集、使用和披露政策。本隐私政策涉及本网站可能收集的个人身份信息（以下简称数据）。",
+      description: "本文档解释了 duckmail 网站上个人信息的收集、使用和披露政策。本隐私政策涉及本网站可能收集的个人身份信息（以下简称数据）。",
       sections: [
         {
           title: "数据收集",
@@ -144,7 +144,7 @@ export default function PrivacyPage() {
 
             <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
               <p className="text-sm text-gray-500 dark:text-gray-400 text-center">
-                © 2024 DuckMail. {currentLocale === "en" ? "All rights reserved." : "保留所有权利。"}
+                © 2025 DuckMail. {currentLocale === "en" ? "All rights reserved." : "保留所有权利。"}
               </p>
             </div>
           </CardBody>
