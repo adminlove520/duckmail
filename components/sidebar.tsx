@@ -60,7 +60,7 @@ export default function Sidebar({ activeItem, onItemClick, currentLocale, isMobi
                 className="w-full h-full object-contain"
               />
             </div>
-            <span className="font-semibold text-lg text-gray-800 dark:text-white">duckmail.sbs</span>
+            <span className="font-semibold text-lg text-gray-800 dark:text-white">duckmail</span>
           </div>
         </div>
       )}
@@ -100,7 +100,7 @@ export default function Sidebar({ activeItem, onItemClick, currentLocale, isMobi
           )
         })}
 
-        <div className="text-xs text-gray-400 mt-4 pt-2 border-t border-gray-200 dark:border-gray-700">© duckmail.sbs</div>
+        <div className="text-xs text-gray-400 mt-4 pt-2 border-t border-gray-200 dark:border-gray-700">© duckmail</div>
       </div>
     </Card>
   )
